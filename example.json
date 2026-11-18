@@ -1,0 +1,10 @@
+{
+  "width": 720,
+  "height": 200,
+  "layout": "horizontal",
+  "nodes": [
+    {"id": "annotation", "label": "Retrieve silkworm\nannotations"},
+    {"id": "alignment", "label": "Align protein\nmodels"},
+    {"id": "review", "label": "Review discrepant\nregions"}
+  ]
+}
